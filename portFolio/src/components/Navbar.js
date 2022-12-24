@@ -22,11 +22,11 @@ const links = [
         to: '/about',
         active: 'about'
     },
-    // {
-    //     name: 'Portfolio',
-    //     to: '/portfolio',
-    //     active: 'portfolio'
-    // }
+    {
+        name: 'Portfolio',
+        to: '/portfolio',
+        active: 'portfolio'
+    }
 ]
 
 export default function Navbar({darkMode, handleClick}) {
