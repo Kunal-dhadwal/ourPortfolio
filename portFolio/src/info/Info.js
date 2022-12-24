@@ -50,7 +50,7 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://twitter.com",
+            link: "https://www.upwork.com/freelancers/~01a32e67eeff73a7a9",
             icon: "fa fa-laptop",
             label: 'upwork'
         },
